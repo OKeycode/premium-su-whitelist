@@ -1,7 +1,9 @@
-_G.Key = "xteMD933L5fFcRUrQ7EfdZwGZ3tqdrej6P7eSKXhHrhgMAaErW"
+_G.Key = "rn753XVdE3ZkgsQv"
 
 local keys = {
-    "xteMD933L5fFcRUrQ7EfdZwGZ3tqdrej6P7eSKXhHrhgMAaErW"
+    "rn753XVdE3ZkgsQv",
+    "d4sGwLKpw6KUzJeU",
+    "56h3uxEcC9PmWZjV"
 }
 
 local counter = 1
