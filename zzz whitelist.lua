@@ -6,7 +6,7 @@ local keys = {
     "56h3uxEcC9PmWZjV"
 }
 
-local counter = 1
+local counter = 3
 local keyCheck
 for i,v in pairs(keys) do
     if counter == #keys then
