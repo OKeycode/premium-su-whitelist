@@ -1,10 +1,7 @@
---Beemo's simple whitelist
-_G.Key = "DnjWLYtnr6bdBQEjEpkJEJhJ5ftGeMEWYnMz3EhjD8xarYRPEp"
+_G.Key = "xteMD933L5fFcRUrQ7EfdZwGZ3tqdrej6P7eSKXhHrhgMAaErW"
 
 local keys = {
-    "xteMD933L5fFcRUrQ7EfdZwGZ3tqdrej6P7eSKXhHrhgMAaErW",
-    "CZP75sL8PustxBH5hrrJCUYH7FF7gAPeFrFBvWFqufCtx5pDSY",
-    "DnjWLYtnr6bdBQEjEpkJEJhJ5ftGeMEWYnMz3EhjD8xarYRPEp"
+    "xteMD933L5fFcRUrQ7EfdZwGZ3tqdrej6P7eSKXhHrhgMAaErW"
 }
 
 local counter = 1
