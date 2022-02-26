@@ -33,5 +33,3 @@ while true do
     end
     wait()
 end
-
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/OKeycode/pro/main/ProjectSleep1.lua?token=GHSAT0AAAAAABR7INC3WLNYFRSQDF3XXEQAYQ2N5VA'), true))()
